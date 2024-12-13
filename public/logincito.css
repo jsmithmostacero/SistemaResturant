@@ -1,0 +1,10 @@
+._form-08-head::before {
+  position: absolute;
+  content: "";
+  background: url(/shap-01.png);
+  width: 111px;
+  height: 124px;
+  background-repeat: no-repeat;
+  top: 0;
+  right: -12px;
+}
